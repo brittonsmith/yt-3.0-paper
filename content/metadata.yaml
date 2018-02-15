@@ -31,6 +31,16 @@ author_info:
       - Department of Astronomy, University of Illinois at Urbana-Champaign
     funders: Grant XXXXXXXX
   -
+    github: brittonsmith
+    name: Britton Smith
+    initials: BDS
+    orcid: 0000-0002-6804-630X
+    twitter: aBrittonSmith
+    email: bds006@sdsc.edu
+    affiliations:
+      - San Diego Supercomputer Center, University of California, San Diego
+    funders: Grant XXXXXXXX
+  -
     github: yournamehere
     name: Add Yourself
     initials: YOU
